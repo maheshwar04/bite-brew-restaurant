@@ -72,7 +72,7 @@ function ShowAllUsers() {
         setFormError("All fields are required");
         return;
       }
-      const response = await axios.put(
+      await axios.put(
         `http://localhost:5000/api/users/${editUser._id}`,
         editUser,
         {

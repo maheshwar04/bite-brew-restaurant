@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bite-brew-restaurant/static/css/main.c52cb035.css",
+    "main.js": "/bite-brew-restaurant/static/js/main.a57fb5af.js",
+    "static/js/453.d855a71b.chunk.js": "/bite-brew-restaurant/static/js/453.d855a71b.chunk.js",
+    "static/media/cafe-background.png": "/bite-brew-restaurant/static/media/cafe-background.c0250fcc789fd36cc94e.png",
+    "index.html": "/bite-brew-restaurant/index.html",
+    "main.c52cb035.css.map": "/bite-brew-restaurant/static/css/main.c52cb035.css.map",
+    "main.a57fb5af.js.map": "/bite-brew-restaurant/static/js/main.a57fb5af.js.map",
+    "453.d855a71b.chunk.js.map": "/bite-brew-restaurant/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52cb035.css",
+    "static/js/main.a57fb5af.js"
+  ]
+}

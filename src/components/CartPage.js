@@ -56,7 +56,7 @@ function CartPage({ cart, setCart }) {
         productId: item.productId,
         quantity: item.quantity || 1,
       }));
-      const response = await axios.post(
+      await axios.post(
         "http://localhost:5000/api/orders/create",
         {
           products: orderProducts, // Send mapped products to backend

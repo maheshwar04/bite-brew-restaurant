@@ -13,9 +13,9 @@ const AdminNavBar = () => {
     <>
       {/* 🌐 Navbar */}
       <nav className="products-navbar">
-        <a className="navbar-brand fw-bold fs-4" href="#">
+        <span className="navbar-brand fw-bold fs-4">
           🍴 Bites & Brew Admin
-        </a>
+        </span>
         <div className="d-flex gap-3">
           <Link to="/admin" className="btn btn-outline-light">
             Home
